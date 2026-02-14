@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-subbuild/CMakeFiles/glm-populate"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-subbuild/CMakeFiles/15d0d0e01b6599e6c1159cc55920ca2a/glm-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-subbuild/CMakeFiles/63f1d918e9c341c881c9c13e351d8e99/glm-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-subbuild/CMakeFiles/60d3a38b716df9704918a407b704891b/glm-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-subbuild/CMakeFiles/60d3a38b716df9704918a407b704891b/glm-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-subbuild/CMakeFiles/60d3a38b716df9704918a407b704891b/glm-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-subbuild/CMakeFiles/60d3a38b716df9704918a407b704891b/glm-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-subbuild/CMakeFiles/60d3a38b716df9704918a407b704891b/glm-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-subbuild/CMakeFiles/60d3a38b716df9704918a407b704891b/glm-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-subbuild/CMakeFiles/60d3a38b716df9704918a407b704891b/glm-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-subbuild/CMakeFiles/60d3a38b716df9704918a407b704891b/glm-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glm-populate"
+		],
+		"name" : "glm-populate"
+	}
+}

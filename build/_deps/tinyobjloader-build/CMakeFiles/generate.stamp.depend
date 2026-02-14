@@ -1,0 +1,14 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.0/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/tinyobjloader-src/CMakeLists.txt
+C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/tinyobjloader-src/cmake/sanitizers/FindASan.cmake
+C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/tinyobjloader-src/cmake/sanitizers/FindMSan.cmake
+C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/tinyobjloader-src/cmake/sanitizers/FindSanitizers.cmake
+C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/tinyobjloader-src/cmake/sanitizers/FindTSan.cmake
+C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/tinyobjloader-src/cmake/sanitizers/FindUBSan.cmake
+C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/tinyobjloader-src/cmake/sanitizers/sanitize-helpers.cmake
+C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/tinyobjloader-src/tinyobjloader-config.cmake.in
+C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/tinyobjloader-src/tinyobjloader.pc.in

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Corey\Work\Personal\vulkan\VulkanTutorialTest\build\_deps\tinyobjloader-subbuild\CMakeFiles\569cb1d77a512a8a6c06a54fa6bbbed4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2867813F-1748-33B7-B472-E56A69BA5C7B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

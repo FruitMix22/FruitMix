@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glfw-subbuild/CMakeFiles/4e8e94de5922c491eda34c2895fc885a/glfw-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glfw-subbuild/CMakeFiles/9d2eabae4980b487149a68c391908dc3/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glfw-subbuild/CMakeFiles/42fe321d793be15c94558a0d5d884101/glfw-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glfw-subbuild/CMakeFiles/42fe321d793be15c94558a0d5d884101/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glfw-subbuild/CMakeFiles/42fe321d793be15c94558a0d5d884101/glfw-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glfw-subbuild/CMakeFiles/42fe321d793be15c94558a0d5d884101/glfw-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glfw-subbuild/CMakeFiles/42fe321d793be15c94558a0d5d884101/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glfw-subbuild/CMakeFiles/42fe321d793be15c94558a0d5d884101/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glfw-subbuild/CMakeFiles/42fe321d793be15c94558a0d5d884101/glfw-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glfw-subbuild/CMakeFiles/42fe321d793be15c94558a0d5d884101/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}

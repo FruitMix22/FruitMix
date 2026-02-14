@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/cmake_install.cmake",
+		"C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glfw-build/cmake_install.cmake",
+		"C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glfw-build/src/cmake_install.cmake",
+		"C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glfw-build/docs/cmake_install.cmake",
+		"C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-build/cmake_install.cmake",
+		"C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-build/glm/cmake_install.cmake",
+		"C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/tinyobjloader-build/cmake_install.cmake",
+		"C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/VulkanTutorialTest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
