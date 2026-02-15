@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glfw-src/docs
+# Install script for directory: C:/Users/Corey/Work/Personal/vulkan/FruitMix/build/_deps/glfw-src/docs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,6 +35,6 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glfw-build/docs/install_local_manifest.txt"
+  file(WRITE "C:/Users/Corey/Work/Personal/vulkan/FruitMix/build/_deps/glfw-build/docs/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

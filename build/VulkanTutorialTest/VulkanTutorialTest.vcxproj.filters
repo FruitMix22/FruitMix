@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\Corey\Work\Personal\vulkan\VulkanTutorialTest\VulkanTutorialTest\VulkanTutorialTest.cpp">
+    <ClCompile Include="C:\Users\Corey\Work\Personal\vulkan\FruitMix\VulkanTutorialTest\VulkanTutorialTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\Corey\Work\Personal\vulkan\VulkanTutorialTest\VulkanTutorialTest\VulkanTutorialTest.h">
+    <ClInclude Include="C:\Users\Corey\Work\Personal\vulkan\FruitMix\VulkanTutorialTest\VulkanTutorialTest.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Corey\Work\Personal\vulkan\VulkanTutorialTest\VulkanTutorialTest\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\Corey\Work\Personal\vulkan\FruitMix\VulkanTutorialTest\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{060E006C-AD48-32DA-A44B-479468BB138D}</UniqueIdentifier>
+      <UniqueIdentifier>{3056D52C-1881-33AA-90F9-D7D7C3A4A910}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{20A4DA3F-CBB5-37DE-9A27-847E7D469D3A}</UniqueIdentifier>
+      <UniqueIdentifier>{A3E1B9F4-70A0-34A1-905B-26483344676C}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

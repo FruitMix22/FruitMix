@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/tinyobjloader-subbuild/cmake_install.cmake"
+		"C:/Users/Corey/Work/Personal/vulkan/FruitMix/build/_deps/tinyobjloader-subbuild/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

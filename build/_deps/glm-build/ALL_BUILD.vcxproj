@@ -25,7 +25,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{E01E8A27-0276-3D59-9B17-64147B793FD7}</ProjectGuid>
+    <ProjectGuid>{D24BBCC7-A5EB-300E-B058-2D7B3083E3FB}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
@@ -108,11 +108,11 @@
     </Midl>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Corey\Work\Personal\vulkan\VulkanTutorialTest\build\_deps\glm-src\CMakeLists.txt">
+    <CustomBuild Include="C:\Users\Corey\Work\Personal\vulkan\FruitMix\build\_deps\glm-src\CMakeLists.txt">
       <UseUtf8Encoding>Always</UseUtf8Encoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-src/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/Corey/Work/Personal/vulkan/FruitMix/build/_deps/glm-src/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest -BC:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build --check-stamp-file C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-build/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Corey/Work/Personal/vulkan/FruitMix -BC:/Users/Corey/Work/Personal/vulkan/FruitMix/build --check-stamp-file C:/Users/Corey/Work/Personal/vulkan/FruitMix/build/_deps/glm-build/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -121,11 +121,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Program Files\CMake\share\cmake-4.0\Modules\GNUInstallDirs.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\Corey\Work\Personal\vulkan\VulkanTutorialTest\build\_deps\glm-build\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\Corey\Work\Personal\vulkan\FruitMix\build\_deps\glm-build\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-src/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/Corey/Work/Personal/vulkan/FruitMix/build/_deps/glm-src/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest -BC:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build --check-stamp-file C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-build/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Corey/Work/Personal/vulkan/FruitMix -BC:/Users/Corey/Work/Personal/vulkan/FruitMix/build --check-stamp-file C:/Users/Corey/Work/Personal/vulkan/FruitMix/build/_deps/glm-build/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -134,11 +134,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Program Files\CMake\share\cmake-4.0\Modules\GNUInstallDirs.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\Corey\Work\Personal\vulkan\VulkanTutorialTest\build\_deps\glm-build\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\Corey\Work\Personal\vulkan\FruitMix\build\_deps\glm-build\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-src/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/Corey/Work/Personal/vulkan/FruitMix/build/_deps/glm-src/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest -BC:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build --check-stamp-file C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-build/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Corey/Work/Personal/vulkan/FruitMix -BC:/Users/Corey/Work/Personal/vulkan/FruitMix/build --check-stamp-file C:/Users/Corey/Work/Personal/vulkan/FruitMix/build/_deps/glm-build/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -147,11 +147,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Program Files\CMake\share\cmake-4.0\Modules\GNUInstallDirs.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\Corey\Work\Personal\vulkan\VulkanTutorialTest\build\_deps\glm-build\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\Corey\Work\Personal\vulkan\FruitMix\build\_deps\glm-build\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-src/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/Corey/Work/Personal/vulkan/FruitMix/build/_deps/glm-src/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest -BC:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build --check-stamp-file C:/Users/Corey/Work/Personal/vulkan/VulkanTutorialTest/build/_deps/glm-build/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Corey/Work/Personal/vulkan/FruitMix -BC:/Users/Corey/Work/Personal/vulkan/FruitMix/build --check-stamp-file C:/Users/Corey/Work/Personal/vulkan/FruitMix/build/_deps/glm-build/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -160,7 +160,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Program Files\CMake\share\cmake-4.0\Modules\GNUInstallDirs.cmake;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\Corey\Work\Personal\vulkan\VulkanTutorialTest\build\_deps\glm-build\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\Corey\Work\Personal\vulkan\FruitMix\build\_deps\glm-build\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
@@ -168,14 +168,14 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="C:\Users\Corey\Work\Personal\vulkan\VulkanTutorialTest\build\ZERO_CHECK.vcxproj">
-      <Project>{B3695391-9CFA-3A2F-9C49-250052D72FC8}</Project>
+    <ProjectReference Include="C:\Users\Corey\Work\Personal\vulkan\FruitMix\build\ZERO_CHECK.vcxproj">
+      <Project>{195E8F0B-EDD1-3603-B515-5E97C371C8C2}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\Corey\Work\Personal\vulkan\VulkanTutorialTest\build\_deps\glm-build\glm\glm.vcxproj">
-      <Project>{F48F3721-65A9-3753-B4E8-554A5D6AD827}</Project>
+    <ProjectReference Include="C:\Users\Corey\Work\Personal\vulkan\FruitMix\build\_deps\glm-build\glm\glm.vcxproj">
+      <Project>{0BB8366A-F6A3-3834-96DA-9CDC019C1445}</Project>
       <Name>glm</Name>
     </ProjectReference>
   </ItemGroup>
